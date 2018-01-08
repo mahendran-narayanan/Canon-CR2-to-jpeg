@@ -1,5 +1,5 @@
 ## Problem
-	If you shot photos in "CR2" format and have a problem in changing the files to ".jpeg". You can change it using *Adobe Photoshop*. If you need an alternative solution you can use this program to solve the problem
+   If you shot photos in "CR2" format and have a problem in changing the files to ".jpeg". You can change it using *Adobe Photoshop*. If you need an alternative solution you can use this program to solve the problem
 
 ### Prerequisites
 	- Need python 3 or above
@@ -12,7 +12,7 @@
 	4. Run the python file.
 
 
-	This program will take time to convert the CR2 to jpeg format. Basically the conversion goes like this
-	> .CR2 -> .tiff -> .jpeg
+This program will take time to convert the CR2 to jpeg format. Basically the conversion goes like this
+> .CR2 -> .tiff -> .jpeg
 
 	
