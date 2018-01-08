@@ -3,8 +3,10 @@
 
 ### Prerequisites
 	- Need python 3 or above
-	- Need to install the specific packages in python 3
-
+	- Need to install the below specified packages
+	 - [rawpy](https://pypi.python.org/pypi/rawpy).
+	 - [imageio](https://pypi.python.org/pypi/imageio).
+	 - [PIL](https://pypi.python.org/pypi/Pillow/3.3.3).
 ### Procedure to convert
 	1. Create a new folder and copy all the CR2 file format files in that folder. 
 	2. Download this repository and save it in the folder you created.
